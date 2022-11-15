@@ -1,4 +1,4 @@
-# How to run TON Validators/Nominators pool
+# How to run TON Validators pool
 This is a very detailed guide on how to run node on the TON blockchain. The overall process devided into the small steps which are easy to follow.
 ##
 ### I. Running TON Validator
